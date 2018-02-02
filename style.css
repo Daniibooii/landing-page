@@ -15,7 +15,7 @@ h1 {
     color: rgb(195, 204, 182);
 }
 
-.content {
+.sentence {
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
     color: rgb(232, 255, 199);
@@ -25,4 +25,13 @@ h1 {
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
     color: rgb(232, 255, 199);
+}
+
+strong {
+    color: yellow;
+}
+
+input {
+    background-color: transparent;
+    float: left;
 }
