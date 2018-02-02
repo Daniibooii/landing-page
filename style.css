@@ -1,11 +1,28 @@
 body {
-    background-image:url("https://cdn3.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/shutterstock_93034630.jpg");
+    background-image:url("https://www.vorex.com/wp-content/uploads/2015/06/Dollarphotoclub_70765003-825x510.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: brown;
+    color: #ffffff;
 }
 
 container {
     position: relative;
 }
+h1 {
+    font-family: 'Rammetto One', cursive;
+    font-size: 4em;
+    text-align: Left;
+    color: rgb(195, 204, 182);
+}
 
+.content {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    color: rgb(232, 255, 199);
+}
+
+.contact {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
+    color: rgb(232, 255, 199);
+}
