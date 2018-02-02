@@ -29,8 +29,9 @@ h1 {
 
 input {
     background-color: transparent;
-    background-color: rgb(182, 182, 182);
+    border-style: double;
     float: left;
+    color: yellow;
 }
 
 .contact {
