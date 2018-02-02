@@ -21,12 +21,15 @@ h1 {
     color: yellow;
 }
 
-sentance {
-    color: rgb(238, 238, 175);
+.sentence {
+    color: rgb(224, 224, 154);
+    font-family: "Cormorant Garamond", serif;
+    font-size: 20px;
 }
 
 input {
     background-color: transparent;
+    background-color: rgb(182, 182, 182);
     float: left;
 }
 
@@ -50,3 +53,6 @@ love {
     font-style: oblique;
 }
 
+button {
+    background-color: rgb(192, 192, 59);
+}
