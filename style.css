@@ -15,10 +15,19 @@ h1 {
     color: yellow;
 }
 
-.sentence {
+.content {
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
-    color: rgb(254, 255, 183);
+    color: yellow;
+}
+
+sentance {
+    color: rgb(238, 238, 175);
+}
+
+input {
+    background-color: transparent;
+    float: left;
 }
 
 .contact {
@@ -28,20 +37,16 @@ h1 {
     clear: both;
 }
 
+iframe {
+  margin-top: 53px;
+}
+
 strong {
     color: yellow;
 }
 
-input {
-    background-color: transparent;
-    float: left;
-}
-
-button {
-    background-color: rgb(202, 202, 71);
-    margin-left: 10px;
-}
-
 love {
     color: red;
+    font-style: oblique;
 }
+
