@@ -12,19 +12,20 @@ h1 {
     font-family: 'Rammetto One', cursive;
     font-size: 4em;
     text-align: Left;
-    color: rgb(195, 204, 182);
+    color: yellow;
 }
 
 .sentence {
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
-    color: rgb(232, 255, 199);
+    color: rgb(254, 255, 183);
 }
 
 .contact {
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
     color: rgb(232, 255, 199);
+    clear: both;
 }
 
 strong {
@@ -34,4 +35,9 @@ strong {
 input {
     background-color: transparent;
     float: left;
+}
+
+button {
+    background-color: rgb(202, 202, 71);
+    margin-left: 10px;
 }
