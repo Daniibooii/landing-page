@@ -1,0 +1,11 @@
+body {
+    background-image:url("https://cdn3.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/shutterstock_93034630.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: brown;
+}
+
+container {
+    position: relative;
+}
+
